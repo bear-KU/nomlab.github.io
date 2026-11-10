@@ -4,6 +4,7 @@ draft = false
 title = 'ドアプレートで勤怠管理を自動化！'
 showAuthor = true
 authors = ['ueda']
+featureimage = "PXL_20260717_065651965.jpg"
 +++
 
 こんにちは，M1 の上田です．
