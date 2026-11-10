@@ -4,6 +4,7 @@ draft = false
 title = 'Take Me, Cake Me !'
 showAuthor = true
 authors = ['nom']
+featureimage = "images/01_showcase.jpg"
 +++
 こんにちは，乃村です．皆さんはケーキ好きですか?
 <!-- folding -->
